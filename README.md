@@ -3,6 +3,8 @@ A strategic People Analytics solution built in Power BI to monitor workforce sta
 
 # People Insights Dashboard
 
+![People Insights Dashboard](GinishTech%20Screenshot.png)
+
 ## Project Overview
 This repository contains a comprehensive Human Resources analytics solution built in Power BI. The dashboard investigates employee demographic trends, salary distributions, and key drivers behind workforce attrition.
 
@@ -19,3 +21,5 @@ This repository contains a comprehensive Human Resources analytics solution buil
 1. Download the `GINISHTECH PowerBI Dashboard.pbix` file from this repository.
 2. Open it using **Power BI Desktop**.
 *(Optional: If you have a Power BI Public Publish link, paste it here!)*
+
+
