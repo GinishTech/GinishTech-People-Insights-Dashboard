@@ -20,6 +20,5 @@ This repository contains a comprehensive Human Resources analytics solution buil
 ## How to View the Dashboard
 1. Download the `GINISHTECH PowerBI Dashboard.pbix` file from this repository.
 2. Open it using **Power BI Desktop**.
-*(Optional: If you have a Power BI Public Publish link, paste it here!)*
 
 
